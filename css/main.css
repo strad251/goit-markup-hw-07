@@ -630,6 +630,8 @@ img {
 .specialty__title {
   font-weight: 700;
   line-height: 1.17;
+  color: var(--dark-text-color);
+  margin-bottom: 10px;
 }
 
 .specialty__description {
